@@ -79,8 +79,6 @@ Trying to pull repository docker.io/library/haproxy ...
 sha256:32be2bd1ec0e8cea7a990e18bd0069b09f23781e9004b20cd7e473b23e146f23: Pulling from docker.io/library/haproxy
 5040bd298390: Already exists
 63408554ba61: Already exists
-f181ad950f1f: Pull complete
-51ae42c67904: Pull complete
 3ea5adf19ff4: Pull complete
 Digest: sha256:32be2bd1ec0e8cea7a990e18bd0069b09f23781e9004b20cd7e473b23e146f23
 Status: Downloaded newer image for docker.io/haproxy:1.7
@@ -90,19 +88,6 @@ sha256:85e3748026700065aafab4753f0214ccd43e99951c57dda2a33d4ed0ad57265a: Pulling
 5040bd298390: Already exists
 fce5728aad85: Pull complete
 c42794440453: Pull complete
-9789263043d1: Pull complete
-028c93201aa7: Pull complete
-421550fa5e0a: Pull complete
-0b6de6596f87: Pull complete
-15e36b3a2923: Pull complete
-dfc9f014b65f: Pull complete
-b1787e8f8d06: Pull complete
-d22dc832fb20: Pull complete
-ea5a2d632020: Pull complete
-03a610412f20: Pull complete
-13630d58e653: Pull complete
-43ce4d03abfb: Pull complete
-b870fea23dd0: Pull complete
 9e53c91deee9: Pull complete
 4eb6a09786b9: Pull complete
 Digest: sha256:85e3748026700065aafab4753f0214ccd43e99951c57dda2a33d4ed0ad57265a
